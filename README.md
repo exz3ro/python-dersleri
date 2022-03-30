@@ -1,6 +1,5 @@
 
 
-
 Sıfırdan **Python Dersleri**;
 
 - **Veritabanları** (MySql, Sqlite, MongoDb), 
