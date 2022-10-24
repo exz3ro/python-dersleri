@@ -51,5 +51,3 @@ Kurs İçeriği,
 - **Masaüstü Uygulama Geliştirme**: **PyQt5**
 - **Web Geliştirme**: **Django**
 
-Zaman kaybetmeden **python programlama** dünyasına katılın ve Python 'ın getirdiği güzellikleri hep beraber görmeye başlayalım.
-
